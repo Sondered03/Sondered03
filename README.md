@@ -1,9 +1,7 @@
 - @Sondered03
 - Entry Level Python Dev
-- 
+- Professional unanonymous account
 - I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- Email me at cfmayes03@pm.me
 
 <!---
 Sondered03/Sondered03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
