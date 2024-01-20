@@ -1,7 +1,7 @@
 - @Sondered03
-- Entry Level Python Dev
-- Professional unanonymous account
-- I’m currently learning SQL
+- Entry Level Python Dev.
+- This is my Professional unanonymous account.
+- I like making things.
 
 <!---
 Sondered03/Sondered03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
