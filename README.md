@@ -1,6 +1,5 @@
 - @Sondered03
 - Entry Level Python Dev.
-- This is my Professional unanonymous account.
 - I like making things.
 
 <!---
